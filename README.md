@@ -1,7 +1,8 @@
+![logo](https://github.com/Parth-Shrotriya/Parth-Shrotriya/blob/main/Banner-github.jpg)
 <h1 align="center">Hey 👋 , I'm Parth Shrotriya</h1>
 <h3 align="center">Aspiring Network Security Enthusiast and Python Developer</h3>
 
-<img align="right" alt="Network" width="400" src="[https://cdn.dribbble.com/users/662779/screenshots/5122311/server.gif](https://drive.google.com/file/d/1NUiKzeUuDqfhAchaAAis_F6BEuNCwwZn/view?usp=drive_link)">
+<img align="right" alt="Network" width="400" src="https://github.com/Parth-Shrotriya/Parth-Shrotriya/blob/main/387d8d376e67ef3e2f2f7fec87b56246.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parth-shrotriya&label=Profile%20views&color=0e75b6&style=flat" alt="parth-shrotriya" /> </p>
 
