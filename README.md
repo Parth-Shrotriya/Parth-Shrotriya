@@ -32,4 +32,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parth-shrotriya&theme=dark&hide_border=true&show_icons=true&locale=en" alt="parth-shrotriya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parth-shrotriya&theme=dark&hide_border=true&" alt="parth-shrotriya" /></p>
+<p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Parth-Shrotriya&theme=dark" alt="GitHub Streak" /></a></p>
